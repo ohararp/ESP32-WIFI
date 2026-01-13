@@ -1,0 +1,29 @@
+# CircuitPython
+*.mpy
+.Trashes
+.metadata_never_index
+.fseventsd/
+boot_out.txt
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+*.so
+
+# Logs
+*.log
+serial_log.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temp files
+tmpclaude-*
+
+# Local data (measurements)
+/data/
