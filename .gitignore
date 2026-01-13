@@ -27,3 +27,5 @@ tmpclaude-*
 
 # Local data (measurements)
 /data/
+session_transcript.jsonl
+settings.toml
