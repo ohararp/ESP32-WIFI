@@ -25,6 +25,9 @@ serial_log.txt
 # Temp files
 tmpclaude-*
 
+# Claude Code project context
+.claude/
+
 # Local data (measurements)
 /data/
 session_transcript.jsonl
